@@ -25,3 +25,10 @@ export const sidebarLinks = [
         imgUrl: '/icons/add-personal.svg',
     },
 ]
+export const avatarImages=[
+    // '/images/avatar-1.ipeg',
+    // '/images/avatar-2.ipeg',
+    // '/images/avatar-3.ipeg',
+    // '/images/avatar-4.ipeg',
+    // '/images/avatar-5.ipeg',
+]
